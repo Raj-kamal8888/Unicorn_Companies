@@ -37,7 +37,7 @@ Funding : Total amount raised across all funding rounds in billions (B) or milli
 
 Select Investors : Top 4 investing firms or individual investors (some have less than 4)
 
-SQL Queries
+**SQL Queries**
 
 data_cleaning.sql: a query for data cleaning
 
@@ -46,7 +46,7 @@ data_exploration.sql: a query for data exploration
 query_data_visualization.sql: a query for data visualization in Tableau
 
 
-Analytical Results
+**Analytical Results**
 Brief findings of this project are:
 
 Zapier has the biggest return on investment.
