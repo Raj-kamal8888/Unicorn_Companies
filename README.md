@@ -43,7 +43,7 @@ data_cleaning.sql: a query for data cleaning
 
 data_exploration.sql: a query for data exploration
 
-query_data_visualization.sql: a query for data visualization in Tableau
+query_data_visualization.sql: a query for data visualization in Power Bi
 
 
 **Analytical Results**
